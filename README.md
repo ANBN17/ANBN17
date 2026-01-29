@@ -91,4 +91,3 @@ My work focuses on applying **econometrics, machine learning, and market microst
 
 ⚡ *Research-first. Risk-aware. Market-driven.*
 
-⚡ *Research-first. Risk-aware. Market-driven.*
