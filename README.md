@@ -1,4 +1,4 @@
-## Niraj Neupane
+# 💫 About Me:
 
 Quantitative researcher with a background in financial economics, financial engineering, and professional accounting.  
 My work focuses on systematic trading, derivatives, and risk analytics, combining economic intuition with statistical rigor and production-oriented research workflows.
@@ -69,7 +69,7 @@ Developed risk-focused models incorporating volatility forecasting, Value-at-Ris
 
 ---
 
-## Technical Stack
+## Software and Tools
 
 Programming and Computing  
 Python, C++, R, SQL, Advanced Excel, Linux
@@ -101,7 +101,7 @@ I am interested in roles involving:
 
 ## Links
 
-Quant Research Website  
+Portfolio Website  
 https://canirajneupane.notion.site/quant
 
 ## 🌐 Socials:
