@@ -1,93 +1,104 @@
-## Hi there 👋 I’m Niraj Neupane
+## Niraj Neupane
 
-🎯 **Quantitative Researcher | Chartered Accountant (CA) | Financial Engineering**  
-📍 United States | 🌍 Open to US & Europe opportunities  
-🔬 Systematic Trading • Derivatives • Risk & Market Analytics  
+Quantitative researcher with a background in financial economics, financial engineering, and professional accounting. My work focuses on systematic trading, derivatives, and risk analytics, combining economic intuition with statistical rigor and production-oriented research workflows. I am particularly interested in building robust, risk-aware quantitative models that translate empirical research into repeatable trading and risk-management systems.
+---
+
+## Research Focus
+
+My quantitative work spans the full research lifecycle:
+- Market data acquisition and feature engineering
+- Strategy research and hypothesis testing
+- Risk-adjusted performance evaluation
+- Portfolio construction and drawdown control
+- Paper trading, execution logic, and monitoring
+- Machine learning applications for trading and risk
+
+I primarily work with futures, equities, and options, with an emphasis on robustness, interpretability, and scalability.
 
 ---
 
-### 🧠 About Me
-I am a **Quantitative Researcher and Chartered Accountant (CA)** with advanced training in **Financial Economics and Financial Engineering**, specializing in **systematic trading, derivatives, and risk analytics**.
+## Educational & Professional Qualifications
 
-My work focuses on applying **econometrics, machine learning, and market microstructure concepts** to research, backtest, and evaluate **robust, risk-aware trading strategies** across **futures, equities, and options**.
+### Education
+- Master of Science in Financial Economics  
+  University of Wisconsin–Madison  
+  Focus: Fixed Income, Econometrics, Machine Learning
 
----
+- Master of Science in Financial Engineering (In Progress)  
+  WorldQuant University  
+  Focus: Quantitative Trading, Derivatives, Algorithmic Systems
 
-## 🔬 What I Work On
-- 📈 Systematic trading strategy research (trend, momentum, volatility)
-- ⚙️ Backtesting & performance analytics pipelines
-- 📊 Risk metrics & portfolio analytics (Sharpe, drawdown, VaR, CVaR)
-- 🧮 Derivatives & volatility modeling (options, Greeks, regimes)
-- 🧠 Machine learning for financial time series
+### Professional Credentials
+- Chartered Accountant (CA)  
+  Institute of Chartered Accountants of India
 
----
-
-## 🎓 Educational & Professional Qualifications
-
-### 🎓 Education
-- **Master of Science in Financial Economics (MSFE)**  
-  *University of Wisconsin–Madison, USA*  
-  Focus: Fixed Income, Econometrics, Machine Learning | **Dec 2025**
-
-- **Master of Science in Financial Engineering (MScFE)** *(In Progress)*  
-  *WorldQuant University, USA*  
-  Focus: Quantitative Trading, Derivatives, Algorithmic Strategies
+- Capital Markets & Securities Analyst (CMSA)  
+  Corporate Finance Institute
 
 ---
 
-### 📜 Professional Qualifications
-- **Chartered Accountant (CA)**  
-  *Institute of Chartered Accountants of India (ICAI)*  
-  Specialization: Finance, Accounting & Risk | **Licensed Aug 2019**
+## Quantitative Research Projects
 
-- **Capital Markets & Securities Analyst (CMSA®)**  
-  *Corporate Finance Institute (CFI), Canada* | **Certified Oct 2025**
+### 1. Market Data Analysis and PnL Modeling  
+Developed Python-based pipelines to process raw market data and compute returns, volatility, PnL attribution, and drawdowns. Emphasis on clean data handling, performance diagnostics, and exploratory market behavior analysis.
 
----
+### 2. Systematic Trading Strategy and Backtesting  
+Designed and backtested systematic strategies using historical data. Evaluated performance using risk-adjusted metrics, stability across regimes, and sensitivity to parameter choices.
 
-## 🏗️ Current Roles
-- 🔭 **Quantitative Researcher — K & T Quant Lab**  
-  Independent research lab focused on systematic trading, futures strategies, and risk analytics
+### 3. Futures Trend-Following and Risk Management  
+Built trend-following strategies on futures contracts incorporating volatility targeting, leverage control, contract rollovers, and drawdown-based risk limits.
 
-- 📚 **Research Assistant — Department of Economics, UW–Madison**  
-  Econometric & time-series modeling for macroeconomic and emerging-market research
+### 4. Options Strategy and Volatility Analysis  
+Modeled option payoffs and Greeks. Analyzed implied versus realized volatility and evaluated option strategies under different volatility and market regime assumptions.
 
----
+### 5. Machine Learning for Trading Signal Evaluation  
+Applied machine learning models to financial time-series for signal evaluation. Focused on feature engineering, walk-forward validation, and avoiding overfitting in predictive models.
 
-## 🧪 Selected Quant Projects
-- Futures trend-following & volatility targeting strategies  
-- Systematic momentum strategies (WorldQuant Brain)  
-- Options strategy & volatility analysis (Akuna Capital)  
-- Market data, PnL & drawdown analytics (Maverick Trading)  
-- ML-based trading signal research (Cardinal Trading Group)  
-- Automated paper trading & execution systems (Atlas Trading)
+### 6. Automated Paper Trading and Execution Workflow  
+Implemented automated paper-trading systems integrating strategy signals, execution logic, PnL tracking, and real-time risk monitoring to simulate live trading environments.
 
-👉 See pinned repositories below 👇
+### 7. Risk-Based Quantitative Modeling and ML Risk Forecasting  
+Developed risk-focused models incorporating volatility forecasting, Value-at-Risk, Conditional VaR, stress testing, and machine-learning-based risk estimation frameworks.
 
 ---
 
-## 🛠️ Technical Stack
-**Languages:** Python, C++, R, SQL, Advanced Excel, Linux  
-**Libraries:** NumPy, Pandas, Scikit-learn, Statsmodels  
-**Backtesting:** Backtrader, Zipline  
-**Data:** Bloomberg, FactSet, Reuters Eikon, S&P Capital IQ  
-**Visualization:** Power BI, Tableau  
+## Technical Stack
+
+Programming and Computing  
+Python, C++, R, SQL, Advanced Excel, Linux
+
+Quantitative and Statistical Methods  
+Time-series analysis, econometrics, optimization, machine learning, volatility modeling, portfolio risk
+
+Libraries and Frameworks  
+NumPy, Pandas, Scikit-learn, Statsmodels, Backtrader, Zipline
+
+Market Data and Analytics Platforms  
+Bloomberg, FactSet, Reuters Eikon, S&P Capital IQ
+
+Visualization and Reporting  
+Power BI, Tableau, Matplotlib
 
 ---
 
-## 🏆 Highlights
-- 🏅 Nathan S. Brand Award 2025 – Excellence in Finance  
-- 🌍 McKinsey & Co. Exchange Forward Program  
-- 📜 FMVA®, Bloomberg Market Concepts (BMC), IBM Data Science  
+## Professional Interests
+
+I am interested in roles involving:
+- Quantitative research and strategy development
+- Risk analytics and portfolio risk management
+- Derivatives and volatility modeling
+- Systematic trading and execution research
+- Applied machine learning in finance
 
 ---
 
-## 🌐 Connect
-- 🔗 Quant Research Website: https://canirajneupane.notion.site/quant  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nirajneupane  
-- 📧 Email: nirajneupane17@outlook.com  
+## Links
 
----
+Quant Research Website  
+https://canirajneupane.notion.site/quant
 
-⚡ *Research-first. Risk-aware. Market-driven.*
+LinkedIn  
+https://www.linkedin.com/in/nirajneupane
 
+Email  
+nirajneupane17@outlook.com
